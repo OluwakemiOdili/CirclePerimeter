@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CirclePerimeter", "CirclePerimeter.csproj", "{47F61131-3A65-4F11-9A20-9768FB9AAD8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{41FC64A3-2295-47B8-A76F-91198531A1EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47F61131-3A65-4F11-9A20-9768FB9AAD8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47F61131-3A65-4F11-9A20-9768FB9AAD8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47F61131-3A65-4F11-9A20-9768FB9AAD8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47F61131-3A65-4F11-9A20-9768FB9AAD8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41FC64A3-2295-47B8-A76F-91198531A1EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41FC64A3-2295-47B8-A76F-91198531A1EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41FC64A3-2295-47B8-A76F-91198531A1EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41FC64A3-2295-47B8-A76F-91198531A1EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {560D03C6-0628-417B-9B5D-73F8535BE34C}
+	EndGlobalSection
+EndGlobal
